@@ -6,6 +6,12 @@ Background:
 When Background starts without given keyword
 And in no one of scenario didn't started
 
+
+Scenario: 
+When Background starts without given keyword
+And in no one of scenario didn't started
+
+
 @SC_224885986
 Scenario: 
 When Background starts without given keyword
