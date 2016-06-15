@@ -6,7 +6,7 @@ Background:
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-
+@SC_94326012
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
