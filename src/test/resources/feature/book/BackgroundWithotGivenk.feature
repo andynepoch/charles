@@ -6,6 +6,12 @@ Background:
 Given asd
 And kjsdfhk
 
+
+Scenario: 
+Given asd
+And kjsdfhk
+
+
 @SC_690076014
 Scenario: 
 Given asd
