@@ -2,8 +2,5 @@
 Feature: gg
 g
 
-Scenario: f
-f
-Given dfg
-When dsf
+
 
