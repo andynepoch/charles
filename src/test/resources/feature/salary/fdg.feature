@@ -37,7 +37,7 @@ Given gherkin parse must return error of parsing
 Scenario: 
 Given gherkin parse must return error of parsing
 
-SC_522509184
+@SC_522509184
 Scenario:
 Given hello
 When hi
