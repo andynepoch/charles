@@ -1,4 +1,4 @@
-@Story_Good @ST_521621260
+@Story_Good @ST_361683082
 Feature: Given in background
   Check Background without given keyword
 
@@ -6,23 +6,23 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_319164000
+@SC_367257084
 Scenario: 
 Given this story has background with given keyword
 
-@SC_94497908
+@SC_378326239
 Scenario: 
 Given this story has background with given keyword
 
-@SC_490110206
+@SC_332240400
 Scenario: 
 Given this story has background with given keyword
 
-@SC_690997871
+@SC_310114843
 Scenario: 
 Given this story has background with given keyword
 
-@SC_225042207
+@SC_331584569
 Scenario: 
 Given this story has background with given keyword
 

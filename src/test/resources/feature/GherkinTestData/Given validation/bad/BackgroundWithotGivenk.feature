@@ -1,4 +1,4 @@
-@Story_Bad @kj @ST_254740702
+@Story_Bad @kj @ST_369397792
 Feature: Given in only one scenariol
 Check Background without given keywordjh
 
@@ -7,27 +7,27 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_318898371
+@SC_378928445
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_94263512
+@SC_339371884
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_489875845
+@SC_381572884
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_690763552
+@SC_385125628
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_224839110
+@SC_356109245
 Scenario: 
 Given asd
 And kjsdfhk
