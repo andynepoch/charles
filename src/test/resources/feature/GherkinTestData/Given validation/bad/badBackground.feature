@@ -1,4 +1,4 @@
-@Story_Bad_Badbackground @ST_374265523
+@ST_5440 @Story_Bad_Badbackground
 Feature: background and scenario without given
 Check Background without given keyword
 
@@ -7,59 +7,58 @@ Background:
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_327641445
+@SC_23247
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_313554823
+@SC_23248
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_350434091
+@SC_23249
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_333728668
+@SC_23250
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_340124523
+@SC_23251
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_345583410
+@SC_23252
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_323895984
+@SC_23253
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_371772211
+@SC_23254
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_324073048
+@SC_23255
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_367507590
+@SC_23256
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@Critical @Test_1 @SC_376165351
+@SC_23257 @Critical @Test_1
 Scenario: Check background
 When Background starts without given keyword
 And in no one of scenario didn't started
 Then gherkin parse must return error of parsing
-

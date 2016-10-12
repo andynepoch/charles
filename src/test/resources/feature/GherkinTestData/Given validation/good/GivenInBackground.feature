@@ -1,4 +1,4 @@
-@Story_Good @ST_361683082
+@ST_5442 @Story_Good
 Feature: Given in background
   Check Background without given keyword
 
@@ -6,52 +6,52 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_367257084
+@SC_23281
 Scenario: 
 Given this story has background with given keyword
 
-@SC_378326239
+@SC_23282
 Scenario: 
 Given this story has background with given keyword
 
-@SC_332240400
+@SC_23283
 Scenario: 
 Given this story has background with given keyword
 
-@SC_310114843
+@SC_23284
 Scenario: 
 Given this story has background with given keyword
 
-@SC_331584569
+@SC_23285
 Scenario: 
 Given this story has background with given keyword
 
-@SC_09687437
+@SC_23286
 Scenario: 
 Given this story has background with given keyword
 
-@SC_550994994
+@SC_23287
 Scenario: 
 Given this story has background with given keyword
 
-@SC_154011004
+@SC_23288
 Scenario: 
 Given this story has background with given keyword
 
-@SC_846578515
+@SC_23289
 Scenario: 
 Given this story has background with given keyword
 
-@SC_04043901
+@SC_23290
 Scenario: 
 Given this story has background with given keyword
 
-@Critical @Test_1 @SC_521622261
+@SC_23291 @Critical @Test_1
 Scenario: Check background
 When scenario not necessary must started from  given keyword
 Then gherkin parser must be ok with parsing
 
-@Medium @Test_2 @SC_521624261
+@SC_23292 @Medium @Test_2
 Scenario: Check background
 Given scenario not necessary must started from given keyword but may
 Then gherkin parser must be ok with parsing
@@ -60,4 +60,3 @@ And GIT GIT
 And the payroll for the employee with id 6 should display a salary of 6
 And the boss increases the salary for the employee with id '3' by 5%
 And the payroll for the employee with id 2 should display a salary of 3
-
