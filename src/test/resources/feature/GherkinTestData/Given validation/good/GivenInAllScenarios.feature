@@ -1,4 +1,4 @@
-@ST_8550 @Story_Good
+@ST_11791 @Story_Good
 Feature: Given in all scenarios
   Check Background without given keyword
 
@@ -6,52 +6,52 @@ Background:
 
 When in this story background hasn't given keyword
 
-@SC_36059
+@SC_49114
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36060
+@SC_49115
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36061
+@SC_49116
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36062
+@SC_49117
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36063
+@SC_49118
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36064
+@SC_49119
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36065
+@SC_49120
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36066
+@SC_49121
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36067
+@SC_49122
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36068
+@SC_49123
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_36069 @Critical @Test_1
+@SC_49124 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
-@SC_36070 @Medium @Test_2
+@SC_49125 @Medium @Test_2
 Scenario Outline: Check another scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
@@ -61,47 +61,47 @@ Examples:
 ||||
 
 
-@SC_36071
+@SC_49126
 Scenario: Scenario
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36072
+@SC_49127
 Scenario: Scen5
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36073
+@SC_49128
 Scenario: scen 6
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36074
+@SC_49129
 Scenario: Scen 7
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36075
+@SC_49130
 Scenario: Scen 8
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36076
+@SC_49131
 Scenario: Scen 9
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36077
+@SC_49132
 Scenario: Scen 10
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36078
+@SC_49133
 Scenario: Scen 11
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
 
-@SC_36079
+@SC_49134
 Scenario: Scen 12
 Given gherkin parse must return error of parsing
 And Book 5 should have the title '(.+)'
