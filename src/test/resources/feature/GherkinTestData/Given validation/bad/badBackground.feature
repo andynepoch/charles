@@ -1,4 +1,4 @@
-@ST_12550 @Story_Bad_Badbackground
+@ST_12564 @Story_Bad_Badbackground
 Feature: background and scenario without given
 Check Background without given keyword
 
@@ -7,57 +7,57 @@ Background:
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52482
+@SC_52651
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52483
+@SC_52652
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52484
+@SC_52653
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52485
+@SC_52654
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52486
+@SC_52655
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52487
+@SC_52656
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52488
+@SC_52657
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52489
+@SC_52658
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52490
+@SC_52659
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52491
+@SC_52660
 Scenario: 
 When Background starts without given keyword
 And in no one of scenario didn't started
 
-@SC_52492 @Critical @Test_1
+@SC_52661 @Critical @Test_1
 Scenario: Check background
 When Background starts without given keyword
 And in no one of scenario didn't started
