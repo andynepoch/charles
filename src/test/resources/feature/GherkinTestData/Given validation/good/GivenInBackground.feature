@@ -1,4 +1,4 @@
-@ST_12566 @Story_Good
+@ST_12986 @Story_Good
 Feature: Given in background
   Check Background without given keyword
 
@@ -6,52 +6,52 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_52685
+@SC_54420
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52686
+@SC_54421
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52687
+@SC_54422
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52688
+@SC_54423
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52689
+@SC_54424
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52690
+@SC_54425
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52691
+@SC_54426
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52692
+@SC_54427
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52693
+@SC_54428
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52694
+@SC_54429
 Scenario: 
 Given this story has background with given keyword
 
-@SC_52695 @Critical @Test_1
+@SC_54430 @Critical @Test_1
 Scenario: Check background
 When scenario not necessary must started from  given keyword
 Then gherkin parser must be ok with parsing
 
-@SC_52696 @Medium @Test_2
+@SC_54431 @Medium @Test_2
 Scenario: Check background
 Given scenario not necessary must started from given keyword but may
 Then gherkin parser must be ok with parsing

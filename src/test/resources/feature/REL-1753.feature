@@ -1,14 +1,14 @@
-@ST_12964
+@ST_12978
 Feature: testing
 
-@SC_54281
+@SC_54334
 Scenario: Check that icon 'Unsubscribe' is present on panel 'Projects' on page 'Dashboard'
 Given I am logged in Relime as PM/TM user
 When I navigate to page 'Dashboard'
 Then I see icon 'Unsubscribe' near appropriate project in panel 'Projects'
 And I see tooltip "Unsubscribe me"
 
-@SC_54282
+@SC_54335
 Scenario: Check pop-up 'Unsubscribe me'
 Given I am logged in Relime as PM/TM user
 When I navigate to page 'Dashboard'
@@ -19,7 +19,7 @@ And I see label "Unsubscribe me"
 And I see text "Are you sure you want to be unsubscribed from [Project name] project?"
 And I see buttons 'Cancel' and 'OK'
 
-@SC_54283
+@SC_54336
 Scenario: Check behavior when user clicks OK button in pop-up 'Unsubscribe me'
 Given I am logged in Relime as PM/TM user
 When I navigate to page 'Dashboard'
