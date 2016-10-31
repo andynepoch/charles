@@ -1,38 +1,38 @@
-@ST_12987
+@ST_13151
 Feature: sfgs
 
 Background: 
 
 Given gherkin parse must return error of parsing
 
-@SC_54433
+@SC_55265
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54434
+@SC_55266
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54435
+@SC_55267
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54436
+@SC_55268
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54437
+@SC_55269
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54438
+@SC_55270
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54439
+@SC_55271
 Scenario: 
 Given gherkin parse must return error of parsing
 
-@SC_54440
+@SC_55272
 Scenario: 
 Given gherkin parse must return error of parsing
