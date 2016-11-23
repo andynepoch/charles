@@ -1,4 +1,4 @@
-@ST_17584 @Story_Bad @kj
+@ST_20442 @Story_Bad @kj
 Feature: Given in only one scenariol
 Check Background without given keywordjh
 
@@ -7,52 +7,52 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_74155
+@SC_87105
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74156
+@SC_87106
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74157
+@SC_87107
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74158
+@SC_87108
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74159
+@SC_87109
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74160
+@SC_87110
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74161
+@SC_87111
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74162
+@SC_87112
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_74163 @Critical @Test_1
+@SC_87113 @Critical @Test_1
 Scenario: Check scenario
 Given asd
 And kjsdfhk
 
-@SC_74164 @Medium @Test_2
+@SC_87114 @Medium @Test_2
 Scenario: Check another scenario
 When this scenario started without given keyword
 Then gherkin parser must return error
