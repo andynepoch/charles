@@ -1,7 +1,7 @@
-@ST_14749
+@ST_26492
 Feature: bdd
 
-@SC_61766
+@SC_107042
 Scenario: Check that newly  created account is selected on page 'Project settings' just after its creation
 Given I am logged in Relime
 Then I navigate to page 'Project settings'

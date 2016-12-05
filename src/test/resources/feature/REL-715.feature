@@ -1,7 +1,7 @@
-@ST_15106
+@ST_26498
 Feature: bdd
 
-@SC_64052
+@SC_107062
 Scenario: Check that row "Add new account" is added to accounts dropdown at the top of the list for Git/Jira account fields on page 'Project settings'
 Given I am logged in Relime
 When I create project

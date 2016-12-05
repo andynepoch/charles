@@ -1,7 +1,7 @@
-@ST_15197
+@ST_26488
 Feature: bdd
 
-@SC_66225
+@SC_107036
 Scenario: Check popup 'Save to Jira' on page 'Feature management'
 Given I am logged in Relime
 When I navigate to page 'Feature management'

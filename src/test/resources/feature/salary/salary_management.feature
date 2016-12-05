@@ -1,4 +1,4 @@
-@ST_20447 @Story_BookSearch
+@ST_26510 @Story_BookSearch
 Feature: Salary Management
 
 Background: 
@@ -17,7 +17,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87172
+@SC_107175
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -33,7 +33,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87173
+@SC_107176
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -49,7 +49,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87174
+@SC_107177
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -65,7 +65,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87175
+@SC_107178
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -81,7 +81,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87176
+@SC_107179
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -97,7 +97,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87177
+@SC_107180
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -113,7 +113,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87178
+@SC_107181
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -129,7 +129,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87179
+@SC_107182
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -145,7 +145,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87180
+@SC_107183
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -161,7 +161,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87181 @Critical @Test_1
+@SC_107184 @Critical @Test_1
 Scenario: Modify an employee's salary
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -177,7 +177,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_87182 @High @Test_1
+@SC_107185 @High @Test_1
 Scenario Outline: Modify an employee's salary
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
